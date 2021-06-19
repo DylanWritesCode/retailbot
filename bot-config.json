@@ -1,0 +1,22 @@
+{
+    "telegramToken":"",
+    "telegramChatId": "",
+    "gameStopProducts": [
+        {
+            "id" :"Nintendo-Switch-BlueAndRed",
+            "url" : "https://www.gamestop.com/video-games/nintendo-switch/consoles/products/nintendo-switch-with-neon-blue-and-neon-red-joy-con/11095819.html"
+        },
+        {
+            "id" : "Nintendo-Switch-Grey",
+            "url" : "https://www.gamestop.com/video-games/nintendo-switch/consoles/products/nintendo-switch-with-gray-joy-con/11095821.html"
+        },
+        {
+            "id" : "Nintendo-Switch-MarioEdition",
+            "url" : "https://www.gamestop.com/video-games/nintendo-switch/consoles/products/nintendo-switch-mario-red-and-blue-edition/11114028.html"
+        },
+        {
+            "id" : "Nintendo-Switch-AnimalEdition",
+            "url" : "https://www.gamestop.com/video-games/nintendo-switch/consoles/products/nintendo-switch-animal-crossing-new-horizons-edition/11100143.html"
+        }
+    ]
+}
